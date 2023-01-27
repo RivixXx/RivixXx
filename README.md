@@ -38,7 +38,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RivixXx&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
-
+<div align="center">Привет</div>
 <hr>
 dfdfdf
 <!--
