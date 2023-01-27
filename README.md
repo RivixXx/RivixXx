@@ -36,9 +36,10 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RivixXx&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
-<div align="center">Привет</div>
+
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=RivixXx&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)</div>
+
 <hr>
 dfdfdf
 <!--
