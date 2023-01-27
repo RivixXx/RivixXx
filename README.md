@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/rivix" target="_blank">Michail</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+frontend+developer+specializing+in+React.)](https://git.io/typing-svg)
 
 
-### Hi there 👋
+
 
 <!--
-**RivixXx/RivixXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
